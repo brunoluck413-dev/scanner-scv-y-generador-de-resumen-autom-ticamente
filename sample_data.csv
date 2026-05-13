@@ -1,0 +1,16 @@
+nombre,edad,ciudad,salario,departamento,activo
+Ana García,29,Madrid,45000,Ingeniería,True
+Carlos López,34,Barcelona,52000,Marketing,True
+María Pérez,28,Madrid,41000,Ingeniería,False
+Juan Martínez,41,Valencia,67000,Dirección,True
+Laura Sánchez,25,,38000,RRHH,True
+Pedro Gómez,38,Sevilla,49000,Ingeniería,True
+Sofía Ruiz,31,Madrid,55000,Marketing,True
+Diego Torres,29,Barcelona,43000,Ingeniería,True
+Elena Vargas,45,Valencia,71000,Dirección,True
+Miguel Castro,27,Sevilla,,RRHH,False
+Ana García,29,Madrid,45000,Ingeniería,True
+Isabel Moreno,33,Madrid,48000,Marketing,True
+Roberto Jiménez,36,Barcelona,53000,Ingeniería,True
+Carmen Navarro,42,Valencia,62000,Dirección,False
+Fernando Gil,30,Sevilla,44000,RRHH,True
